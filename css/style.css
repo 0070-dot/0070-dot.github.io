@@ -7,10 +7,12 @@ img {
     height: auto;
 }
 
-h1 {
+h1,
+h2 {
     font-family: 'Gaegu', cursive;
 }
 
 body {
-    font-family: sans-serif;
+    font-family: 'Poor Story', cursive;
+
 }
